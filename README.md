@@ -43,3 +43,16 @@ API не требует ключа.
 4. Нажать Run
 
 ## Скриншоты
+## Скриншоты
+
+### Список
+![list](screenshots/list.png)
+
+### Избранное
+![favorites](screenshots/favorites.png)
+
+### Детали
+![detail](screenshots/details.png)
+
+### Ошибка
+![error](screenshots/retry.png)
