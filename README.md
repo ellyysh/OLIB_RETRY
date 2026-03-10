@@ -46,13 +46,13 @@ API не требует ключа.
 ## Скриншоты
 
 ### Список
-![list](screenshots/list.png)
+![list](screenshoots/list.png)
 
 ### Избранное
-![favorites](screenshots/favorites.png)
+![favorites](screenshoots/favorites.png)
 
 ### Детали
-![detail](screenshots/details.png)
+![detail](screenshoots/details.png)
 
 ### Ошибка
-![error](screenshots/retry.png)
+![error](screenshoots/retry.png)
